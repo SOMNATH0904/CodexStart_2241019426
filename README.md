@@ -2,6 +2,6 @@
 Introductory Problems of CSES - Solution
 
 # About
-Name : Somnath Shaw
-Reg_No : 2241019426
+Name : Somnath Shaw <br>
+Reg_No : 2241019426 <br>
 CSES USERNAME : SOMNATH0904
