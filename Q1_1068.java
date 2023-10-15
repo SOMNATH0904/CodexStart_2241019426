@@ -1,6 +1,12 @@
+/*
+ * Name: Somnath Shaw
+ * Reg No: 2241019426
+ * PS LINK: https://cses.fi/problemset/task/1068
+ */
+
 import java.util.Scanner;
 
-public class Q1_Weird_Algorithm {
+public class Q1_1068 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextInt();

@@ -1,6 +1,12 @@
+/*
+ * Name: Somnath Shaw
+ * Reg No: 2241019426
+ * PS LINK: https://cses.fi/problemset/task/1083/
+ */
+
 import java.util.Scanner;
 
-public class Q2_Missing_Number {
+public class Q2_1083 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
