@@ -1,3 +1,9 @@
+/*
+ * Name: Somnath Shaw
+ * Reg No: 2241019426
+ * PS LINK: https://cses.fi/problemset/task/1094
+ */
+
 import java.util.Scanner;
 
 public class Q4_1094 {
